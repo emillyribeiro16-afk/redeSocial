@@ -1,7 +1,7 @@
   //Botâo curtida
 
   document.addEventListener(''DOMcontentLoader'',;();
-  const likeBtn = document.query
+  const likeBtn = document.querySelector(''.left'')
 
 
 
